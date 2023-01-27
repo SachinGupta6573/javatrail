@@ -5,4 +5,9 @@ class sn
     ///code
   
    }
+   public void m1()
+   {
+    ///code
+  
+   }
 }
